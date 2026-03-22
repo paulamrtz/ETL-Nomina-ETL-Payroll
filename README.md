@@ -141,7 +141,17 @@ FROM Nomina_Junio_2025;
 ```
 
 ---
+## 🖼️ Vista Previa
 
+**Vista general de la nómina limpia:**
+
+![Preview 1](preview1.png)
+
+**Cargos más comunes:**
+
+![Preview 2](preview2.png)
+
+---
 ## 👩‍💻 Autora
 
 **Paula Martinez**  
