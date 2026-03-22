@@ -11,6 +11,15 @@ El objetivo fue extraer, limpiar y transformar los datos para generar informaci�
 
 ---
 
+## 🖼️ Vista Previa
+
+**Vista general de la nómina limpia:**
+
+![Preview 1](preview1.png)
+
+
+---
+
 ## 🛠️ Tecnologías Utilizadas
 
 | Herramienta | Uso |
@@ -141,11 +150,6 @@ FROM Nomina_Junio_2025;
 ```
 
 ---
-## 🖼️ Vista Previa
-
-**Vista general de la nómina limpia:**
-
-![Preview 1](preview1.png)
 
 **Cargos más comunes:**
 
